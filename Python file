@@ -83,4 +83,4 @@ button_clear=Button(window,text='clear',font=('arial',20,'bold'),command=clear,b
 button_clear.grid(row=6,column=0,padx=10,pady=5,columnspan=2,sticky=W+N)
 window.mainloop()
 #2023   January  27   , Friday 
-#V.1
+#V.1 
